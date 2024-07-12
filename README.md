@@ -10,13 +10,7 @@ Se trata de um programa Python que facilita a análise de feedbacks de cursos at
 - Salvamento dos resultados em arquivos de texto e gráficos para fácil referência.
 
 ## Como usar
-1. **Instalação de Pré-Requisitos:**
-   - Certifique-se de ter Python 3 instalado.
-   - Instale as dependências usando o arquivo `requirements.txt`:
-     ```bash
-     pip install -r requirements.txt
-     ```
-1.1 **Bibliotecas:**
+1 **Bibliotecas:**
    - Matplotlib: Para criação de gráficos.
    - Datetime: Para manipulação de datas e horas.
    - OS: Para manipulação de arquivos e diretórios no sistema operacional.
