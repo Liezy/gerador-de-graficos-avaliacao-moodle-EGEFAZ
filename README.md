@@ -18,7 +18,7 @@ Se trata de um programa Python que facilita a análise de feedbacks de cursos at
 2. **Execução do Programa:**
    - Execute o programa digitando o seguinte comando no terminal:
      ```bash
-     python graficospesquisa.py
+     python programa.py
      ```
    - Siga as instruções para inserir o nome do curso e as respostas para cada pergunta.
 
